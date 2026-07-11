@@ -1,13 +1,8 @@
-
-<!---
-adithyak0604/adithyak0604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look a# Hi there, I'm Adithya Krishna T K 👋
+Hi there, I'm Adithya Krishna T K 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Developer+%7C+AI+Enthusiast;Building+Smart+%26+Creative+Apps;Python+%7C+JavaScript+%7C+HTML" alt="Typing SVG" />
 </p>
-
----
 
 ## 🧑‍💻 About Me
 
