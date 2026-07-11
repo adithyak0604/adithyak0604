@@ -95,12 +95,6 @@ A collection of Python scripts and code experiments.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithyak0604&show_icons=true&theme=tokyonight&hide_border=true" alt="Adithya's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyak0604&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
 
 ---
 
@@ -117,6 +111,10 @@ A collection of Python scripts and code experiments.
     <img src="https://img.shields.io/badge/GitHub-adithyak0604-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+<p>
+  <a href="https://www.linkedin.com/in/adithya-krishna-t-k-ak0604">
+    <img src="
+</p></p>
 
 ---
 
