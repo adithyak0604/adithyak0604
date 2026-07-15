@@ -118,7 +118,3 @@ A collection of Python scripts and code experiments.
 
 ---
 
-<p align="center">
-  <i>"Building at the intersection of AI, agriculture, and creativity."</i>
-</p>t your changes.
---->
