@@ -13,7 +13,6 @@ I'm a developer passionate about combining **Artificial Intelligence**, **comput
 - Passionate about using technology for **agriculture and social good**
 - GitHub: [@adithyak0604](https://github.com/adithyak0604)
 - LinkedIn: [Adithya Krishna T K](https://www.linkedin.com/in/adithya-krishna-t-k-ak0604)
-- 
 
 ---
 
