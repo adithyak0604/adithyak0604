@@ -8,10 +8,12 @@ Hi there, I'm Adithya Krishna T K 👋
 
 I'm a developer passionate about combining **Artificial Intelligence**, **computer vision**, and **web technologies** to build meaningful, real-world applications. From smart agricultural dashboards to emotion recognition systems and browser games — I love building projects that sit at the intersection of creativity and engineering.
 
-- 🌱 Currently exploring **Deep Learning**, **Computer Vision**, and **IoT integrations**
-- 🤖 Interested in **AI/ML**, **Flask web development**, and **frontend game dev**
-- 🌾 Passionate about using technology for **agriculture and social good**
-- 📍 GitHub: [@adithyak0604](https://github.com/adithyak0604)
+- Currently exploring **Deep Learning**, **Computer Vision**, and **IoT integrations**
+- Interested in **AI/ML**, **Flask web development**, and **frontend game dev**
+- Passionate about using technology for **agriculture and social good**
+- GitHub: [@adithyak0604](https://github.com/adithyak0604)
+- LinkedIn: ([Adithya Krishna T K](https://www.linkedin.com/in/adithya-krishna-t-k-ak0604))
+- 
 
 ---
 
